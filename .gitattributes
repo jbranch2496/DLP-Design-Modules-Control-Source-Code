@@ -1,2 +1,1 @@
-* linguist-vendored
-*.LabVIEW linguist-vendored=false
+*.labview linguist-detectable=true
